@@ -13,7 +13,7 @@ A full end-to-end LLM fine-tuning pipeline that adapts **Meta LLaMA 3.1-8B** int
 | **Training Pipeline** | SFT → DPO → RLAIF |
 | **Training Platform** | Google Colab (T4 GPU) |
 | **Adapter Size** | ~160 MB (LoRA adapter only) |
-| **Trained Model** | 🤗 [therapy-teacher-lora on HuggingFace](#) *(link coming soon)* |
+| **Trained Model** | 🤗 [therapy-teacher-lora on HuggingFace]([SherazTheG/therapy-teacher-lora](https://huggingface.co/SherazTheG/therapy-teacher-lora)) |
 
 ---
 
